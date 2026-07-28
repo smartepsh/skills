@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d4728cc4-cdca-445d-9203-9a39d3c31d5c",
+  "path": "vite",
+  "path_key": "vite",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "antfu/skills/vite",
+    "subpath": "skills/vite",
+    "branch": null
+  }
+}

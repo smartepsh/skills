@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6db18d6f-94b2-414b-b7fd-3f5be91160d9",
+  "path": "tailwind-v4-shadcn",
+  "path_key": "tailwind-v4-shadcn",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "secondsky/claude-skills/tailwind-v4-shadcn",
+    "subpath": "plugins/tailwind-v4-shadcn/skills/tailwind-v4-shadcn",
+    "branch": null
+  }
+}
