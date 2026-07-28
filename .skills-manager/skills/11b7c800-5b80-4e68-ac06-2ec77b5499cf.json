@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "11b7c800-5b80-4e68-ac06-2ec77b5499cf",
+  "path": "react-native-best-practices",
+  "path_key": "react-native-best-practices",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "callstackincubator/agent-skills/react-native-best-practices",
+    "subpath": "skills/react-native-best-practices",
+    "branch": null
+  }
+}

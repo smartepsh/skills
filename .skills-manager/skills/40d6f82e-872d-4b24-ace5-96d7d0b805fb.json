@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "40d6f82e-872d-4b24-ace5-96d7d0b805fb",
+  "path": "elixir-antipatterns",
+  "path_key": "elixir-antipatterns",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "gentleman-programming/gentleman-skills/elixir-antipatterns",
+    "subpath": "community/elixir-antipatterns",
+    "branch": null
+  }
+}
