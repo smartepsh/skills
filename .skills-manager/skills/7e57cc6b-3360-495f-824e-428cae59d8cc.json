@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7e57cc6b-3360-495f-824e-428cae59d8cc",
+  "path": ".tmpiPfZ4N",
+  "path_key": ".tmpipfz4n",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
