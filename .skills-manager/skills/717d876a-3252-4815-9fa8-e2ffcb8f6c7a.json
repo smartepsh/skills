@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "skill_id": "5174d325-be6b-4b21-b5ce-cf5372f8c3d9",
-  "path": "rinto-docs-reference",
-  "path_key": "rinto-docs-reference",
+  "skill_id": "717d876a-3252-4815-9fa8-e2ffcb8f6c7a",
+  "path": "rinto-requirements",
+  "path_key": "rinto-requirements",
   "enabled": true,
   "tags": [],
   "source": {

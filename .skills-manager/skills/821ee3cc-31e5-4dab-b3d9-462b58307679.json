@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "skill_id": "253f483e-6959-4ea0-8577-5da59a338898",
-  "path": "rinto-backlog-cleanup",
-  "path_key": "rinto-backlog-cleanup",
+  "skill_id": "821ee3cc-31e5-4dab-b3d9-462b58307679",
+  "path": "rinto-task-execution",
+  "path_key": "rinto-task-execution",
   "enabled": true,
   "tags": [],
   "source": {

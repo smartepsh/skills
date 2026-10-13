@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "733cbc2f-ef91-4b0c-b0c3-632317327475",
+  "path": "rinto-code-reference",
+  "path_key": "rinto-code-reference",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

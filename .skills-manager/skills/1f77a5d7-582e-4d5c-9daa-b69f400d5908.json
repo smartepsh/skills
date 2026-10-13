@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "skill_id": "2f45c8bf-073e-4a68-8c14-596d36dfb0f1",
-  "path": "rinto-requirements",
-  "path_key": "rinto-requirements",
+  "skill_id": "1f77a5d7-582e-4d5c-9daa-b69f400d5908",
+  "path": "rinto-spec-workflow",
+  "path_key": "rinto-spec-workflow",
   "enabled": true,
   "tags": [],
   "source": {

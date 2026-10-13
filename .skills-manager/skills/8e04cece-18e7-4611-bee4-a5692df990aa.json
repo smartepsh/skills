@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8e04cece-18e7-4611-bee4-a5692df990aa",
+  "path": "rinto-task-cancellation",
+  "path_key": "rinto-task-cancellation",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
