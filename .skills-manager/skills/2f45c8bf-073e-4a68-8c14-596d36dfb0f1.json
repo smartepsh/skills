@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2f45c8bf-073e-4a68-8c14-596d36dfb0f1",
+  "path": "rinto-requirements",
+  "path_key": "rinto-requirements",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

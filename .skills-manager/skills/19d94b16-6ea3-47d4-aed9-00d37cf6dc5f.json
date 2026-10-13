@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "19d94b16-6ea3-47d4-aed9-00d37cf6dc5f",
+  "path": "rinto-document-authoring",
+  "path_key": "rinto-document-authoring",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
